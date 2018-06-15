@@ -1,0 +1,15 @@
+{
+  "name": "google-search-anywhere",
+  "version": "1.0.0",
+  "description": "electron app that enable easy google search from anywhere",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nadav Kaner",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^2.0.2"
+  }
+}
